@@ -1,4 +1,4 @@
-# _Alarmanlage
+# Alarmanlage
 
 Zur Verwendung dieses Moduls als Privatperson, Einrichter oder Integrator wenden Sie sich bitte zunächst an den Autor.
 
